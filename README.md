@@ -11,4 +11,3 @@ Multi-threading supported for faster sorting.
 Compile: g++ -Wall -Wextra -pthread -std=c++17 MainTest.cpp
 Run: ./a.out
 Results Comparison: ./compare.sh
-
